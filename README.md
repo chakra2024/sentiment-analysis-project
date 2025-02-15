@@ -1,4 +1,4 @@
-Emotion Analysis using Deep Learning
+# Sentiment Analysis using Deep Learning and NLP
 
 📌 Project Overview
 
